@@ -93,7 +93,6 @@ ashita.events.register('d3d_present', 'present_cb', function ()
         end
 
         txt = string.format(color, "         / \\\n        |\\_/|\n        |---|\n        |   |\n        |   |\n      _ |=-=| _\n  _  / \\|   |/ \\\n / \\|   |   |   ||\\\n|   |   |   |   | \\>\n|   |   |   |   |   \\\n| -   -   -   - |)   )\n|                   /\n \\                 /\n  \\               /\n   \\             /\n    \\           /\n    EAT FOOD IDIOT")
-        --txt = string.format(color, 'Eat Some Goddamned Food Drknotty\nYou Stupid Fucking SHITLORD!')
     end
 
     if (f ~= nil) then
