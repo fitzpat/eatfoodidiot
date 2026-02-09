@@ -1,2 +1,1 @@
-# eatfoodidiot
-ffxi addon food reminder
+Notice that you don't have food on
